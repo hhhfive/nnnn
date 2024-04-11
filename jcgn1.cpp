@@ -1,6 +1,6 @@
 import random
 def generate_ question():
- 	operators = ['+', '一','*','/']
+ 	operators = ['+', '脪禄','*','/']
 	num1 = random. randint(1, 100)
 	num2 = random. randint(1, 100)
 	operator1 = random. choice( operators)
@@ -27,6 +27,10 @@ def generate_ question():
 	elif operator2 == '/':
 		resu1t //= int(question.split('/')[1])
 		return question +'=' + str(result)
-	num_ questions = int(input("请输入题目 数量: "))
+	num_ questions = int(input("脟毛脢盲脠毛脤芒脛驴 脢媒脕驴: "))
 	for i in range(num_ questions):
 		print( generate question())
+
+
+
+			
